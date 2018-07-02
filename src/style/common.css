@@ -1,0 +1,14 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.system{
+    width: 100%;
+    height: 100%;
+}
+body{
+    /*background-image: url('../assets/star-bg.svg');*/
+    /*-webkit-background-size:cover;*/
+    /*background-size:cover;*/
+    /*background-color: #5a5987;*/
+}
